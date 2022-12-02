@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "ru");
-
+    int a;
     int const k = 10;
     double S[k], sum = 0, sra = 0, min = 0;
     cout << "Введите элементы массива:" << endl;
